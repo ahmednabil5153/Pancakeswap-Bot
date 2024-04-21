@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to the PancakeSwap Prediction Bot repository! This bot is designed to help you make smarter predictions on PancakeSwap using 26 technical indicators. With Winnerbot, you can trust math, not emotions!
+Welcome to the PancakeSwap Prediction Bot repository! This bot is designed to help you make smarter predictions on PancakeSwap using 30 technical indicators. With Winnerbot, you can trust math, not emotions!
 
 ## Download
 
